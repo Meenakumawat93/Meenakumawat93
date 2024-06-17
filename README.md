@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Meenakumawat93
-- 👀 I’m interested in Cyber security and web development
-- 🌱 I’m currently learning Web development and database management
-- 💞️ I’m looking to collaborate on building something great
+- 👀 I’m interested in Cyber security and web development.
+- 🌱 Learning and growing every day, currently diving into web development.
+- 💞️ I’m looking to collaborate on building something great.
 - 📫 How to reach me-https://www.linkedin.com/in/meena-kumawat-5b3150274
   
 
